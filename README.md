@@ -1,4 +1,4 @@
-I love learning new things. Have been a professional software developer for over 10 years.
+I love learning new things. 
 
 
 <!---
