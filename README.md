@@ -14,10 +14,6 @@ Welcome to my GitHub corner! I'm an enthusiastic C# developer with over a decade
 
 With a career evolved from being a dedicated developer to a team lead, I've had the privilege to guide and mentor several junior engineers and watched them grow into proficient contributors to our field. I believe in the power of a strong team and the transformative impact of supportive leadership.
 
-## What am I up to? 🛠️
-
-Currently, I'm leading a brilliant team of engineers, working in an environment where C# dances with Typescript, SQL Server plays in the .Net and .Net Core arena, and Angular orchestrates the frontend. We deploy everything on Azure using CI/CD pipelines, with Git as our trusty sidekick. 
-
 ## What's next on my learning roadmap? 🧭
 
 You're never too experienced to stop learning, right? Here are the technologies I'm planning to explore next:
