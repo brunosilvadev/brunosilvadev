@@ -10,7 +10,7 @@
 
 ## Who am I? 🚀
 
-Welcome to my GitHub corner! I'm an enthusiastic C# developer with over a decade of experience under my belt. I've honed my skills in a plethora of technologies, platforms, and environments - from SQL Server, .Net Framework and .Net Core, to Azure and Git. My love for coding is only surpassed by my love for learning and sharing knowledge.
+Welcome to my GitHub corner! I'm an enthusiastic C# developer with over a decade of experience under my belt. I've honed my skills in a plethora of technologies, platforms, and environments - from SQL Server, .Net Framework and .Net Core and the latest trends in single page applications with TypeScript.
 
 With a career evolved from being a dedicated developer to a team lead, I've had the privilege to guide and mentor several junior engineers and watched them grow into proficient contributors to our field. I believe in the power of a strong team and the transformative impact of supportive leadership.
 
