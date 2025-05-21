@@ -1,35 +1,26 @@
-# Hello, World! 🌍
+# Bruno Silva
 
-![Programming Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20TypeScript-blue)
-![Database](https://img.shields.io/badge/Database-SQL%20Server-brightgreen)
-![Framework](https://img.shields.io/badge/Framework-.NET%20%7C%20.NET%20Core-orange)
-![Cloud](https://img.shields.io/badge/Cloud-Azure-blue)
-![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-lightgrey)
-![Version Control](https://img.shields.io/badge/Version%20Control-Git-yellow)
-![Frontend](https://img.shields.io/badge/Frontend-Angular-red)
+## Software Engineering Professional
 
-## Who am I? 🚀
+An experienced software engineer dedicated to developing robust solutions and solving complex technical challenges. With a track record of continuous professional growth. Also love to mentor and experiment with my side projects
 
-Welcome to my GitHub corner! I'm an enthusiastic C# developer with over a decade of experience under my belt. I've honed my skills in a plethora of technologies, platforms, and environments - from SQL Server, .Net Framework and .Net Core and the latest trends in single page applications with TypeScript.
+## Technical Expertise
+**Core Technologies:**
+- **.NET** backend development
+- **Angular** frontend development
+- **SQL Server** database architecture and optimization
+- **RESTful API** design and implementation
+- **CI/CD** automation and deployment orchestration
+- **SOLID principles** application in software design
+- **PCI** and **GDPR** compliance implementation
+- **Responsive UI** development and user experience optimization
+- **Security** best practices and data protection
+- **Git** and **TFS** version control systems
+- **Datadog** infrastructure monitoring and analytics
 
-With a career evolved from being a dedicated developer to a team lead, I've had the privilege to guide and mentor several junior engineers and watched them grow into proficient contributors to our field. I believe in the power of a strong team and the transformative impact of supportive leadership.
 
-## What's next on my learning roadmap? 🧭
+## Let's Connect
+I welcome opportunities to collaborate on challenging projects. Please reach out to discuss how we can work together.
 
-You're never too experienced to stop learning, right? Here are the technologies I'm planning to explore next:
-
-1. Containerization of .Net apps
-2. Non-relational databases
-3. Kafka messaging
-
-I'm always open to suggestions, so feel free to recommend something that caught your interest!
-
-## Let's Connect! 🤝
-
-Want to chat about a project, discuss a collaboration, or just talk about the latest and greatest in tech? Reach out!
-
-- Email: bruno at brunosilva.cc
-- LinkedIn: https://www.linkedin.com/in/brunosilvadev/
-
-Thanks for stopping by!
-
+- [Portfolio & Projects](https://github.com/brunosilvadev)
+- [LinkedIn Profile](https://linkedin.com/in/brunosilvadev)
